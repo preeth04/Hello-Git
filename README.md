@@ -1,2 +1,5 @@
 # Hello-Git
-first github repository
+"To all AutoBots
+I repeat! we 're under attack.
+Gather All Autobots "
+LOL my first Commit!!
